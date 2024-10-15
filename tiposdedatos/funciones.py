@@ -15,7 +15,6 @@ def calcular(a,b):
     return a*b
 def multiplicar(a,b):
     return a*b
-
 total=0
 cantidad=1
 
